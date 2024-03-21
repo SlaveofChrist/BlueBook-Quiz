@@ -8,4 +8,4 @@ This project aim to improve my skills in development in Java.
   2. Functionnalities
   3. How to use BlueBookQuiz
 
-### Architecture (#idArchi) 
+### Architecture {#idArchi} 
